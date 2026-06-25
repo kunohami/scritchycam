@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-A quirky, personal camera app built with Flutter. The first feature is an AR tracing overlay: pick any image from your gallery and it appears transparently over the live camera feed so you can trace it onto paper or canvas. More camera experiments to come.
+A camera app built with Flutter. The first feature is an AR tracing overlay: pick any image from your gallery and it appears transparently over the live camera feed so you can trace it onto paper or canvas. A common use would be to transfer a small sketch into a big canvas for a painting, for example.
 
 ---
 
