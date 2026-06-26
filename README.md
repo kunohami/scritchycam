@@ -67,15 +67,3 @@ lib/
 ```
 
 Full architecture notes and documentation practices are in the [`docs/`](docs/) folder.
-
----
-
-## Contributing
-
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
-
----
-
-## License
-
-[MIT](LICENSE) — kunohami, 2026
